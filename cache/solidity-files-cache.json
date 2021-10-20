@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\TimothyEason\\myprojects\\beer-wall-project\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1634405693446,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "C:\\Users\\TimothyEason\\myprojects\\beer-wall-project\\contracts\\BeerWall.sol": {
+      "lastModificationDate": 1634654148091,
+      "contentHash": "90c269a422032f97d7d52ea778d5a768",
+      "sourceName": "contracts/BeerWall.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BeerWall"
+      ]
+    }
+  }
+}
