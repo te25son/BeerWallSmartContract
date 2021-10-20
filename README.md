@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# 🍺 Beer Wall Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Inspired by the "Build a Web3 App with Solidity + Ethereum Smart Contracts" course at [_buildspace](https://buildspace.so/).
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Depoloyed project can be found at [the BEER WALL](https://beer-wall.therealmrt.repl.co/). Front-end code is hosted on [replit](https://replit.com/).
